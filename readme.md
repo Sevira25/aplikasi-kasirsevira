@@ -8,4 +8,3 @@ setting koneksi di config.php dan ganti username, password dan dbname nya
 Username : admin
 <br/>
 Password : 123
-Silakan gunakan Aplikasi dengan Bijak :)
